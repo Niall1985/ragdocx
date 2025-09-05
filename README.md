@@ -122,7 +122,7 @@ streamlit run ui.py
 ## ⚠️ Notes
 
 * Ensure Pinecone free-tier usage stays within limits.
-* Maximum of 5 PDFs per upload to avoid performance issues.
+* Maximum of 2 PDFs per upload to avoid performance issues.
 * Google Gemini API key required for LLM functionality.
 
 ---
