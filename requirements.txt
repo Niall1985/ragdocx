@@ -1,0 +1,26 @@
+python-dotenv==1.0.1
+streamlit==1.37.0
+
+# Pinecone (latest SDK, do NOT use pinecone-client)
+pinecone==5.0.1
+
+# Embeddings
+sentence-transformers==2.7.0
+torch>=2.1.0
+transformers>=4.41.0
+optree>=0.13.0
+
+# LangChain core + community
+langchain==0.2.11
+langchain-core==0.2.34
+langchain-community==0.2.10
+langchain-text-splitters==0.2.0
+
+# PDF Processing
+pypdf==4.2.0
+PyMuPDF==1.24.9   # gives you fitz
+
+# Utils
+tqdm
+numpy
+pandas
