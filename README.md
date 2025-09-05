@@ -1,4 +1,3 @@
-```markdown
 # 📄 RAG Agent with PDFs + Pinecone + Gemini
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using **PDF ingestion**, **Pinecone vector database**, and **Google Gemini LLM**. Users can upload PDFs, query their contents, and receive AI-generated answers using context from the documents.
@@ -6,8 +5,6 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using **
 ---
 
 ## 🗂 Project Structure
-
-```
 
 RAGDocx/
 │── ingestion.py         # Handles PDF ingestion into Pinecone
@@ -18,7 +15,7 @@ RAGDocx/
 │── requirements.txt     # Python dependencies
 │── .env                 # API keys
 
-````
+
 
 ---
 
