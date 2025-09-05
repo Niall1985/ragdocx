@@ -4,6 +4,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using **
 
 ---
 
+```
 ## 🗂 Project Structure
 
 RAGDocx/
@@ -15,7 +16,7 @@ RAGDocx/
 │── requirements.txt     # Python dependencies
 │── .env                 # API keys
 
-
+```
 
 ---
 
