@@ -36,7 +36,7 @@ RAGDocx/
 ### 1. Clone the repository
 ```bash
 git clone <repo_url>
-cd RAGDocx
+cd ragdocx
 ````
 
 ### 2. Setup Python virtual environment
