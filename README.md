@@ -10,7 +10,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using **
 RAGDocx/
 │── ingestion.py         # Handles PDF ingestion into Pinecone
 │── retrieval.py         # Handles similarity search / retrieval
-│── llm\_helper.py        # Wraps Google Gemini LLM
+│── llm_helper.py        # Wraps Google Gemini LLM
 │── agent.py             # Optional wrapper for LLM responses
 │── ui.py                # Streamlit frontend
 │── requirements.txt     # Python dependencies
@@ -22,7 +22,7 @@ RAGDocx/
 
 ## ⚡ Features
 
-- Upload multiple PDFs (up to 5 at a time)
+- Upload multiple PDFs (up to 2 at a time)
 - Automatic splitting of PDF text into chunks
 - Embedding with `SentenceTransformer`
 - Vector storage & retrieval using Pinecone
