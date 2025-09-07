@@ -6,7 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using **
 
 
 ## 🗂 Project Structure
-
+```
 RAGDocx/
 │── ingestion.py         # Handles PDF ingestion into Pinecone
 │── retrieval.py         # Handles similarity search / retrieval
@@ -15,7 +15,7 @@ RAGDocx/
 │── ui.py                # Streamlit frontend
 │── requirements.txt     # Python dependencies
 │── .env                 # API keys
-
+```
 
 ---
 
