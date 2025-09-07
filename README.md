@@ -34,7 +34,7 @@ RAGDocx/
 
 ### 1. Clone the repository
 ```bash
-git clone <repo_url>
+git clone https://github.com/Niall1985/ragdocx.git
 cd ragdocx
 ````
 
