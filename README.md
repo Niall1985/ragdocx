@@ -126,9 +126,4 @@ streamlit run ui.py
 * Google Gemini API key required for LLM functionality.
 
 ---
----
 
-If you want, I can also **create a “Quick Start” GIF-style guide** in the README showing PDF upload → question → answer flow. This is handy for users who just want to run it immediately.  
-
-Do you want me to add that?
-```
